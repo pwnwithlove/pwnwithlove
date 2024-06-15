@@ -1,10 +1,11 @@
 <h1 align="center">ଘ(∩^o^)⊃━☆:･ﾟ✧*:･ﾟ✧✯♡❀ </h1>
-<h3 align="center">Flag Poisoning member 🚩 && ESNA student</h3>
+<h3 align="center">bug bounty lover, breaking stuff on @yeswehack & worldcuping 🇫🇷 at @Hacker0x01
+ </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pwnwithlove&label=Profile%20views&color=ff69b4&style=flat" alt="pwnwithlove" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pwnwithlove" target="blank"><img src="https://img.shields.io/twitter/follow/pwnwithlove?logo=twitter&style=for-the-badge" alt="pwnwithlove" /></a> </p>
 
- 🚩 [Flag Poisoning](https://flag-poisoning.fr) & [CTFTime](https://ctftime.org/team/175428)  
+ 🚩 [YesWeHack](https://yeswehack.com/hunters/pwnwithlove) & [HackerOne](https://hackerone.com/pwnwithlove)  
  🌸 http://pwniiivfkt3cc3i655mdi25mny5ostietzouaytdznhvreofaw6gvpad.onion/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
